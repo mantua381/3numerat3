@@ -13,7 +13,7 @@ bash motherboard
 
 
 
-%%%%%%%5
+%%%%%%%
 
 
 
