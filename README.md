@@ -6,6 +6,17 @@ CraxkerZ Script Plate 2019 by 3numerat3
 
 "Love it or love it mode"
 
+
+git clone https://github.com/mantua381/3numerat3.git
+cd 3numerate
+bash motherboard
+
+
+
+%%%%%%%5
+
+
+
 Usage example: 
 
 CZ 1 +
