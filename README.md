@@ -2,7 +2,7 @@
 
 stable ve4sion: motherboard-2019.sh
 
-CraxkerZ Script Plate 2019
+CraxkerZ Script Plate 2019 by 3numerat3
 
 "Love it or love it mode"
 
