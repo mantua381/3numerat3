@@ -24,5 +24,10 @@ Haxck th3 world cr4ck tha planet
 %%% join our fckn t3am :)
 
 Hall of fame:
+%A11behxkin%3numerat3%
+
+
+... await ... new version comming
+
 
 Yer contributerz CraxkerZ Script Plate -2019 vs. Unique-ng2019a team cheerup
