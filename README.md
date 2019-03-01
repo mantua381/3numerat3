@@ -4,7 +4,8 @@ stable ve4sion: motherboard-2019.sh
 
 CraxkerZ Script Plate 2019
 
-"Love it or love it mode" 
+"Love it or love it mode"
+
 Usage example: 
 
 CZ 1 +
