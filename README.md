@@ -1,6 +1,6 @@
 # 3numerat3
 
-stable ve4sion: motherboard.sh
+stable ve4sion: motherboard-2019.sh
 
 CraxkerZ Script Plate 2019
 
